@@ -47,4 +47,6 @@ This project explores and models California housing data using multiple regressi
 >  **Best Model:** Random Forest
 
 ---
+ **All modeling, visualizations, and evaluation were done in a Jupyter Notebook `california housing prices.ipynb`.**
+
 
