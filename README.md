@@ -34,7 +34,7 @@ This project explores and models California housing data using multiple regressi
 
 ---
 
-## 📈 Sample Results
+##  Sample Results
 
 | Model              | R² Score |
 |-------------------|----------|
